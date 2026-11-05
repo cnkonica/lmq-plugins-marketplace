@@ -1,3 +1,5 @@
+
+
 总体总结
 
 今年以来，我积极推动 Portfolio Plus 的项目交付与工程建设，通过 AI 赋能、技术领导和工程管控支持团队整体发展。我负责 SG Portfolio Plus 的技术方案设计与交付，设计并实施 WDPS 微服务架构，同时推动 Mobile 和 Backend 团队协作解决交付中的技术挑战，确保项目交付质量及技术方案符合 FSA 预期。
@@ -28,4 +30,33 @@ E. 卓越（团队文化与思维方式）
 
 * 技术领导与团队协作： 通过技术指导、跨团队协作和知识分享，促进团队技术能力提升，积极营造主动担当、协作共赢的团队文化。
 
+Overall Summary
+
+This year, I contributed to the delivery and engineering advancement of Portfolio Plus through AI enablement, technical leadership, and stronger engineering controls. I led the technical design and delivery for SG Portfolio Plus, designed and implemented the WDPS microservices architecture, and drove collaboration between Mobile and Backend teams to resolve technical challenges and ensure delivery quality in line with FSA expectations.
+
+A. AI at Scale (Innovation & Automation)
+
+* AI Knowledge Sharing: Conducted an AI enablement session for the team, covering Agents, Skills, MCP, and their practical applications.
+* Practical AI Adoption: Demonstrated a real-world Portfolio Plus order placement use case integrating MCP with large language models, translating AI concepts into an end-to-end business workflow and promoting understanding of AI-driven business automation.
+
+B. Key Responsibilities (Strategic Delivery & Priorities)
+
+* SG Portfolio Plus: Led technical solution design and implementation for SG Portfolio Plus, driving key business requirements through to delivery.
+* WDPS Microservices Architecture: Designed and led the implementation of the WDPS microservices architecture, driving the system upgrade from V1 to V2 and improving scalability and maintainability.
+* HK/UAE Portfolio Plus: Collaborated with cross-regional teams to support solution design and drive key technical deliverables.
+* Technical Leadership & Collaboration: Provided technical leadership throughout project delivery, coordinating Mobile and Backend teams to resolve technical challenges, align technical solutions, and ensure delivery quality.
+
+C. Governance (GRAS Metrics / TRCB)
+
+* Security & Compliance: Addressed findings from SG FOSS and DAST assessments, driving remediation and strengthening application and security controls.
+* Engineering Governance: Maintained green status across Mode 2 checks, reinforcing the governance baseline for continuous delivery and release management.
+
+D. DORA (Engineering Capability & Resilience)
+
+* Delivery Practices: Adopted the Mode 2 delivery approach to support project deliveries.
+* Delivery Performance: Achieved 11 out of the annual target of 12 deliveries, with the final delivery currently in progress.
+
+E. Excellence (Team Culture & Mindset)
+
+* Technical Leadership & Team Collaboration: Contributed to a positive and accountable team culture through technical guidance, cross-team collaboration, and knowledge sharing, helping strengthen the team’s engineering capabilities.
 
